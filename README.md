@@ -33,8 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/gentryhq)
-- Live Site URL: [Live URL](https://g)
-entry.com.ng/portfolio)
+- Live Site URL: [Live URL](https://gentry.com.ng/portfolio)
 
 
 ## My process
